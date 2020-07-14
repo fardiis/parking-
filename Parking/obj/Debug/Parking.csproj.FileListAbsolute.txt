@@ -1,0 +1,16 @@
+C:\Users\msi\Downloads\Parking\Parking\obj\Debug\Parking.csprojAssemblyReference.cache
+C:\Users\msi\Downloads\Parking\Parking\obj\Debug\Parking.Form1.resources
+C:\Users\msi\Downloads\Parking\Parking\obj\Debug\Parking.frmEditUser.resources
+C:\Users\msi\Downloads\Parking\Parking\obj\Debug\Parking.frmMain.resources
+C:\Users\msi\Downloads\Parking\Parking\obj\Debug\Parking.frmNewUser.resources
+C:\Users\msi\Downloads\Parking\Parking\obj\Debug\Parking.frmUsersList.resources
+C:\Users\msi\Downloads\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+C:\Users\msi\Downloads\Parking\Parking\obj\Debug\Parking.UI.frmNewPerson.resources
+C:\Users\msi\Downloads\Parking\Parking\obj\Debug\Parking.UI.frmPersonsList.resources
+C:\Users\msi\Downloads\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.cache
+C:\Users\msi\Downloads\Parking\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\Parking\Parking\bin\Debug\Parking.exe.config
+C:\Users\msi\Downloads\Parking\Parking\bin\Debug\Parking.exe
+C:\Users\msi\Downloads\Parking\Parking\bin\Debug\Parking.pdb
+C:\Users\msi\Downloads\Parking\Parking\obj\Debug\Parking.exe
+C:\Users\msi\Downloads\Parking\Parking\obj\Debug\Parking.pdb
